@@ -4,10 +4,10 @@ const Skills = () => {
   return (
     <div>
       <div>
-        <h1 className="text-white text-center uppercase m-10">slills</h1>
+        <h1 className="text-white text-center uppercase m-10">skills</h1>
       </div>
 
-      <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-20">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-20">
           {/* skill 1 start */}
         <div className="p-5 m-5">
           <img
@@ -31,7 +31,7 @@ const Skills = () => {
             width={100}
             className="mx-auto  w-20 h-20 object-contain hover:-translate-y-2 hover:scale-105 duration-200"
           />
-          <p className="mt-4 text-white text-center">Html</p>
+          <p className="mt-4 text-white text-center">CSS</p>
         </div>
         </div>
           {/* skill 2 end */}
@@ -46,7 +46,7 @@ const Skills = () => {
             width={100}
             className="w-20 mx-auto h-20 object-contain hover:-translate-y-2 hover:scale-105 duration-200"
           />
-          <p className="mt-4 text-white text-center">Html</p>
+          <p className="mt-4 text-white text-center">JavaScript</p>
         </div>
         </div>
           {/* skill 3 end */}
@@ -61,7 +61,7 @@ const Skills = () => {
             width={100}
             className="w-20 h-20 mx-auto object-contain hover:-translate-y-2 hover:scale-105 duration-200"
           />
-          <p className="mt-4 text-white text-center">Html</p>
+          <p className="mt-4 text-white text-center">FireBase</p>
         </div>
         </div>
           {/* skill 4 end */}
@@ -76,7 +76,7 @@ const Skills = () => {
             width={100}
             className="w-20 h-20 mx-auto object-contain hover:-translate-y-2 hover:scale-105 duration-200"
           />
-          <p className="mt-4 text-white text-center">Html</p>
+          <p className="mt-4 text-white text-center">GitHub</p>
         </div>
         </div>
           {/* skill 5 end */}
@@ -91,7 +91,7 @@ const Skills = () => {
             width={100}
             className="w-20 h-20 mx-auto object-contain hover:-translate-y-2 hover:scale-105 duration-200"
           />
-          <p className="mt-4 text-white text-center">Html</p>
+          <p className="mt-4 text-white text-center">Next</p>
         </div>
         </div>
           {/* skill 6 end */}
@@ -106,7 +106,7 @@ const Skills = () => {
             width={100}
             className="w-20 h-20 mx-auto object-contain hover:-translate-y-2 hover:scale-105 duration-200"
           />
-          <p className="mt-4 text-white text-center">Html</p>
+          <p className="mt-4 text-white text-center">Node</p>
         </div>
         </div>
           {/* skill 7 end */}
@@ -121,7 +121,7 @@ const Skills = () => {
             width={100}
             className="w-20 h-20 mx-auto object-contain hover:-translate-y-2 hover:scale-105 duration-200"
           />
-          <p className="mt-4 text-white text-center">Html</p>
+          <p className="mt-4 text-white text-center">React</p>
         </div>
         </div>
           {/* skill 8 end */}
@@ -135,7 +135,7 @@ const Skills = () => {
             width={100}
             className="w-20 h-20 mx-auto object-contain hover:-translate-y-2 hover:scale-105 duration-200"
           />
-          <p className="mt-4 text-white text-center">Html</p>
+          <p className="mt-4 text-white text-center">TailWind</p>
         </div>
         </div>
           {/* skill 9end */}
@@ -150,7 +150,7 @@ const Skills = () => {
             width={100}
             className="w-20 h-20 mx-auto object-contain hover:-translate-y-2 hover:scale-105 duration-200"
           />
-          <p className="mt-4 text-white text-center">Html</p>
+          <p className="mt-4 text-white text-center">CSS</p>
         </div>
         </div>
           {/* skill 10 end */}
